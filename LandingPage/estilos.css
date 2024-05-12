@@ -1,0 +1,117 @@
+body {
+  background-color: #000000; 
+  color: #ffffff; 
+}
+
+#IMGprincipal {
+  width: 575px;
+  height: 493px; 
+  position: absolute; 
+  top: 60px; 
+  right: -5px;
+  z-index: 1;
+}
+
+#logoImagen {
+  width: 55px;
+  height: 55px; 
+  position: absolute; 
+  top: 15px; 
+  left: 20px; 
+  z-index: 1;
+}
+
+header {
+    line-height: 2;
+    text-align: right;
+}
+
+header div {
+    display: inline-block;
+    position: relative;
+    z-index: 1; 
+}
+
+header a[href="#programacion"] {
+  color: #000000; 
+}
+
+#headerRectangulo {
+    background-color: #313131;
+    width: 100vw;
+    height: 80px;
+    z-index: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#headerRectangulo2 {
+  background-color: #baff0c;
+  width: 230px;
+  height: 45px;
+  z-index: 1;
+  border-radius: 15px;
+  position: absolute;
+  top: 23px;
+  right: 15px;
+}
+header a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #ffffff; 
+    font-size: 36px;
+    z-index: 0; 
+    margin-right: 20px;
+}
+  
+#Titulo\ Principal h1:first-child {
+    color: #baff0c;
+    font-size: 100px;
+    line-height: 0.01;
+    letter-spacing: -0.1em; 
+    margin-bottom: -20px;
+    margin-left: 20px; 
+}
+  
+#Titulo\ Principal h1:last-child {
+    color: #ffffff; 
+    font-size: 100px;
+    line-height: 0.01;
+    letter-spacing: -0.1em; 
+    margin-left: 20px;
+}
+
+#Introducción {
+    font-size: 32px;
+    max-width: 60%;
+    margin-left: 20px; 
+    line-height: 0.9;
+    margin-top: 0px;
+}
+
+  #rectangulo {
+    background-color: #baff0c;
+    width: 385px;
+    height: 80px;
+    border-radius: 15px; 
+    position: absolute;
+    top: 425px;
+    left: 150px;
+    z-index: 0; 
+}
+
+#CTA\ Principal {
+    color: #000000;
+    position: relative;
+    z-index: 1;
+    font-size: 32px;
+    left: 185px;
+    top: 15px;
+}
+
+  
+  
+  
+  
+  
